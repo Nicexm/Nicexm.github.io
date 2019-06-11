@@ -6,10 +6,32 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-06-04T02:18:33.438Z</updated>
+  <updated>2019-06-11T06:52:44.623Z</updated>
   <id>http://yoursite.com/</id>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Focus</title>
+    <link href="http://yoursite.com/2019/06/11/Focus/"/>
+    <id>http://yoursite.com/2019/06/11/Focus/</id>
+    <published>2019-06-11T06:52:24.000Z</published>
+    <updated>2019-06-11T06:52:44.623Z</updated>
+    
+    <content type="html"><![CDATA[<p>专注太难了。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;专注太难了。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Hello</title>
